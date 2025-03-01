@@ -26,12 +26,12 @@ The app is built using modern mobile development technologies:
 ---
 
 ## 🎥 Gameplay Preview
-<img src="https://github.com/Khonsaid/4_Pics1_Word/blob/master/4Pics1Word.gif" width="200">
+<img src="https://github.com/Khonsaid/4_Pics1_Word/blob/main/4Pics1Word.gif" width="200">
 
 ---
 
 ## 📥 Download
-You can download the APK file from here [here](https://github.com/Khonsaid/4_Pics1_Word/blob/master/4Pics1Word.apk)
+You can download the APK file from here [here](https://github.com/Khonsaid/4_Pics1_Word/raw/main/4Pics1Word.apk)
 
 ---
 
