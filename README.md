@@ -10,8 +10,11 @@ A fun and challenging word puzzle game where you guess the word based on four re
 
 ## ✨ Features
 ✅ Multiple levels with increasing difficulty
+
 ✅ Earn and spend coins to reveal or remove letters
+
 ✅ Save and continue your last played game
+
 ✅ Smooth and interactive UI with ViewPager2
 
 ---
